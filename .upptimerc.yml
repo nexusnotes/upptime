@@ -2,6 +2,8 @@
 owner: nexusnotes # Your GitHub username
 repo: upptime # Your GitHub repository name
 
+user-agent: vaughansharman
+
 # Add your sites here
 sites:
   - name: Nexus Notes
