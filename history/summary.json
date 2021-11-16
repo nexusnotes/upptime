@@ -4,18 +4,19 @@
     "url": "https://nexusnotes.com",
     "icon": "https://favicons.githubusercontent.com/nexusnotes.com",
     "slug": "nexus-notes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 141,
-    "timeDay": 116,
-    "timeWeek": 122,
-    "timeMonth": 120,
+    "timeDay": 105,
+    "timeWeek": 118,
+    "timeMonth": 119,
     "timeYear": 141,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-06-08": 15,
       "2021-05-01": 424
     }
@@ -25,18 +26,19 @@
     "url": "https://members.nexusnotes.com",
     "icon": "https://favicons.githubusercontent.com/members.nexusnotes.com",
     "slug": "nexus-notes-members",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 96,
-    "timeWeek": 139,
+    "timeDay": 112,
+    "timeWeek": 137,
     "timeMonth": 116,
     "timeYear": 129,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-06-08": 15
     }
   }
