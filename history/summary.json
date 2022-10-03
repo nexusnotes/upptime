@@ -2,7 +2,7 @@
   {
     "name": "Nexus Notes",
     "url": "https://nexusnotes.com",
-    "icon": "https://favicons.githubusercontent.com/nexusnotes.com",
+    "icon": "https://icons.duckduckgo.com/ip3/nexusnotes.com.ico",
     "slug": "nexus-notes",
     "status": "up",
     "uptime": "99.95%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 142,
-    "timeDay": 123,
-    "timeWeek": 139,
-    "timeMonth": 136,
+    "timeDay": 119,
+    "timeWeek": 141,
+    "timeMonth": 135,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2021-12-15": 16,
@@ -23,7 +23,7 @@
   {
     "name": "Nexus Notes Members",
     "url": "https://members.nexusnotes.com",
-    "icon": "https://favicons.githubusercontent.com/members.nexusnotes.com",
+    "icon": "https://icons.duckduckgo.com/ip3/members.nexusnotes.com.ico",
     "slug": "nexus-notes-members",
     "status": "up",
     "uptime": "99.99%",
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 176,
-    "timeWeek": 151,
+    "timeDay": 177,
+    "timeWeek": 168,
     "timeMonth": 164,
     "timeYear": 153,
     "dailyMinutesDown": {
