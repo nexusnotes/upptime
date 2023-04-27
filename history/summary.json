@@ -6,17 +6,16 @@
     "slug": "nexus-notes",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 141,
-    "timeDay": 3149,
-    "timeWeek": 1128,
+    "timeDay": 3147,
+    "timeWeek": 1132,
     "timeMonth": 385,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-04-26": 7,
       "2022-12-26": 135
     }
   },
@@ -27,17 +26,16 @@
     "slug": "nexus-notes-members",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 159,
-    "timeDay": 3156,
-    "timeWeek": 1145,
-    "timeMonth": 418,
+    "timeDay": 3168,
+    "timeWeek": 1152,
+    "timeMonth": 417,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-04-26": 7,
       "2022-12-26": 135
     }
   }
